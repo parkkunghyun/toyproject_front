@@ -1,3 +1,3 @@
-# toyproject_front (아랑)
-- html, css, js로 블로그 만들기
+# toyproject_front (경현)
+- React로 초안 만들기 - 추후 spring에 붙일 예정
   
